@@ -1,4 +1,4 @@
-package ch8.stringbuilder;
+package stringbuilder;
 
 // **replace() 메서드**
 // ⇒제1인수부터 제2인수의 범위의 문자를, 제3인수로 지정한 문자로 치환한다.

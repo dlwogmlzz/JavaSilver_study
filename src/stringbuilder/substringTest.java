@@ -1,4 +1,4 @@
-package ch8.stringbuilder;
+package stringbuilder;
 
 // **substring() 메서드**
 // ⇒0 ~ 인수에 넣은 값까지 문자열을 잘라내서 값을 되돌림

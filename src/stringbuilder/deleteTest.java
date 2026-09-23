@@ -1,4 +1,4 @@
-package ch8.stringbuilder;
+package stringbuilder;
 
 // **delete() 메서드**
 // ⇒제 1인수부터 제 2인수 범위의 문자를 삭제함.

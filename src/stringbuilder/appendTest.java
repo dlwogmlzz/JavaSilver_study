@@ -1,4 +1,4 @@
-package ch8.stringbuilder;
+package stringbuilder;
 // **append() 메서드**
 // ⇒인수로 넘겨진 문자열을, 대상의 문자열로 추가한다.
 

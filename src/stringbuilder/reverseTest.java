@@ -1,4 +1,4 @@
-package ch8.stringbuilder;
+package stringbuilder;
 
 // **reverse() 메서드**
 // ⇒문자열의 순번을 거꾸로 치환함.

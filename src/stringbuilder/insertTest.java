@@ -1,4 +1,4 @@
-package ch8.stringbuilder;
+package stringbuilder;
 
 // insert() 메서드
 // ⇒인수로 지정된 문자열을,
